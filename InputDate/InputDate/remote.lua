@@ -8,13 +8,11 @@ local kb = libs.keyboard;
 -- http://www.unifiedremote.com/api/libs/keyboard
 
 
---@help Command 1
 actions.year1 = function ()
 	kb.stroke("d2","d0","d1","d4");
 end
 
 
---@help Command 2
 actions.year2 = function ()
 	kb.stroke("d2","d0","d1","d5");
 end
