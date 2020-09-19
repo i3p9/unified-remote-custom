@@ -1,7 +1,7 @@
 month = ["January", "February", "March", "April", "May", "June", "July","August","September","October","November","December"]
 
 tab = ' '
-
+#Prints the buttons for day and month (goes tolayout.xml)
 for x in range(12):
     if(x==0):
         print("Buttons for months")
