@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row>
+		<button color="orange" text="2014" ontap="year1" />
+		<button color="orange" text="2015" ontap="year2" />
+	</row>
+	<row>
+		<button color="blue" text="January" ontap="month1" />
+		<button color="blue" text="February" ontap="month2" />
+		<button color="blue" text="March" ontap="month3" />
+		<button color="blue" text="April" ontap="month4" />
+		<button color="blue" text="May" ontap="month5" />
+		<button color="blue" text="June" ontap="month6" />
+	</row>
+	<row>
+		<button color="blue" text="July" ontap="month7" />
+		<button color="blue" text="August" ontap="month8" />
+		<button color="blue" text="September" ontap="month9" />
+		<button color="blue" text="October" ontap="month10" />
+		<button color="blue" text="November" ontap="month11" />
+		<button color="blue" text="December" ontap="month12" />
+	</row>
+	<row>
+		<button color="green" text="1" ontap="day1" />
+		<button color="green" text="2" ontap="day2" />
+		<button color="green" text="3" ontap="day3" />
+		<button color="green" text="4" ontap="day4" />
+		<button color="green" text="5" ontap="day5" />
+		<button color="green" text="6" ontap="day6" />
+		<button color="green" text="7" ontap="day7" />
+		<button color="green" text="8" ontap="day8" />
+		<button color="green" text="9" ontap="day9" />
+		<button color="green" text="10" ontap="day10" />
+	</row>
+	<row>
+		<button color="green" text="11" ontap="day11" />
+		<button color="green" text="12" ontap="day12" />
+		<button color="green" text="13" ontap="day13" />
+		<button color="green" text="14" ontap="day14" />
+		<button color="green" text="15" ontap="day15" />
+		<button color="green" text="16" ontap="day16" />
+		<button color="green" text="17" ontap="day17" />
+		<button color="green" text="18" ontap="day18" />
+		<button color="green" text="19" ontap="day19" />
+		<button color="green" text="20" ontap="day20" />
+	</row>
+	<row>
+		<button color="green" text="21" ontap="day21" />
+		<button color="green" text="22" ontap="day22" />
+		<button color="green" text="23" ontap="day23" />
+		<button color="green" text="24" ontap="day24" />
+		<button color="green" text="25" ontap="day25" />
+		<button color="green" text="26" ontap="day26" />
+		<button color="green" text="27" ontap="day27" />
+		<button color="green" text="28" ontap="day28" />
+		<button color="green" text="29" ontap="day29" />
+		<button color="green" text="30" ontap="day30" />
+	</row>
+</layout>
