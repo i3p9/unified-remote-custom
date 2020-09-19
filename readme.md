@@ -4,4 +4,4 @@
 This is where I'll be uploading my custom remotes made for my _very_ specific use-cases
 
 ## Remotes made so far
-* InputDate. `Made for inputting YYYYMMDD into stuff quickly`
+* [InputDate](https://github.com/i3p9/unified-remote-custom/tree/master/InputDate) `Made for inputting YYYYMMDD into stuff quickly`
